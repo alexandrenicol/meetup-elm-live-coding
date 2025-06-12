@@ -1,4 +1,16 @@
-# Vite Elm Template
+# Elm taught me how to code againg
+
+Brighton Web Development Meetup - June 2025
+
+## Alex's notes
+
+This is the repo I've used to do the live coding section of the talk
+
+The penultimate commit is more or less where I've left it at the end of the talk
+
+The commit before that is where it was at the beginned of the talk, before refactoring
+
+## Vite Elm Template
 
 [![ci](https://github.com/lindsaykwardell/vite-elm-template/actions/workflows/ci.yml/badge.svg)](https://github.com/lindsaykwardell/vite-elm-template/actions/workflows/ci.yml)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/lindsaykwardell/vite-elm-template)
@@ -11,7 +23,7 @@ A default template for building Elm applications using Vite. Includes hot-module
 
 Live demo site: https://vite-elm-template.netlify.app/
 
-## Features
+### Features
 
 - [Hot Module Reload](https://github.com/hmsk/vite-plugin-elm) of all code in the app (including Elm)
 - [Integration with Vite static asset handling](https://package.elm-lang.org/packages/hmsk/elm-vite-plugin-helper/latest/)
@@ -23,7 +35,7 @@ Live demo site: https://vite-elm-template.netlify.app/
 
 For a single page app (SPA) version of this template, check out [`vite-elm-spa`](https://github.com/lindsaykwardell/vite-elm-spa)
 
-## Get Started
+### Get Started
 
 ```bash
 # Clone the template locally, removing the template's Git log
