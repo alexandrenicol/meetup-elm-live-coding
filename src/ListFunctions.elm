@@ -19,3 +19,8 @@ updateAt list index updateFunction =
 
         Nothing ->
             list
+
+
+removeAt : List a -> Int -> List a
+removeAt list index =
+    List.Extra.removeAt index list
